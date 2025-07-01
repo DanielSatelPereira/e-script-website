@@ -20,9 +20,9 @@ A landing page conta com:
 ## 👥 Equipe
 - Arthur Miranda Rodrigues — CEO / Back-End
 - Alexandre Aizono — QA / Testes
-- Daniel Satel Pereira — Front-End e estrutura geral
+- Daniel Satel Pereira — **Front-End** e estrutura geral
 - Henrique da Cunha Moreira — UI/UX
-- Ville Nunes Figueiredo — Back-End
+- Ville Nunes Figueiredo — **Back-End**
 
 ## 📁 Estrutura de arquivos
 ```
